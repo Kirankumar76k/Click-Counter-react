@@ -28,6 +28,8 @@
   border-width: 0px;
   background-color: #007bff;
   color: white;
+   cursor: pointer;
+  outline: none;
 }
 .count {
   color: #c20a72;
